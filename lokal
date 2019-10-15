@@ -44,28 +44,28 @@ http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SONY CHANEL
 http://210.210.155.35/uq2663/h/h142/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CINEMA WORD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", CINEMA WORD
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX MOVIES
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", FOX MOVIES
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX MOVIES PREMIUM
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", FOX MOVIES PREMIUM
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX MOVIES COMEDY
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", FOX MOVIES COMEDY
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Premium Movies
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", Fox Premium Movies
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Anime CN
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS", Anime CN
 http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Gospel Cartoon
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="kIDS", Gospel Cartoon
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RAI MOVIE
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO 2
@@ -89,19 +89,19 @@ http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", KBS WORLD
 http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", My KIDS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS", My KIDS
 http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS", DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CARTOON NETWORK
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS", CARTOON NETWORK
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ANIMAX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS", ANIMAX
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MIAO MI
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS", MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery ID
@@ -436,9 +436,6 @@ http://wowza60.indostreamserver.com:1935/TV9/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6QWK37Bk-qYsn8bskn2mY9DPM4yd6Fyf_rk8T20rPgmDzs5h0" group-title="INDONESIA",  NADA MUSLIM
 http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fijione.TV/wp-content/uploads/2019/02/index-5-300x161.jpg" group-title="Fiji", (DOUBTFUL) Fiji TV
-https://api.new.livestream.com/accounts/19514369/events/fijiTVstream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/40/TV1_Logo_2011.png/revision/latest?cb=20131101030840" group-title="MALAYSIA", RTM 1
 http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
