@@ -5,9 +5,6 @@ https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream03/streamPla
 #EXTINF:0 tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/transformasi-logo-tvri-_190405212444-949.jpg" group-title="INDONESIA",TVRI HD
 https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/NMXHYyixYoCDZJdzsSzqapwYy_WLhHn78HMtOte9Wu5NKSK7Q1IIst5NmQIJStKHsZgq" group-title="INTRO", OFFICIAL IPTV
-https://www.googleapis.com/drive/v3/files/1_1LIJ3Kt-yo3Q-sNdkIHoTjaCiHceIGU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BLOOMBERG TV
 http://210.210.155.35/session/a1876b84-11cc-11e9-a55e-c81f66f89318/uq2663/h/h03/01.m3u8
 
@@ -32,9 +29,6 @@ http://210.210.155.35/session/50583bd2-e57e-11e8-8760-b82a72d63267/qwr9ew/s/s42/
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", KIX
 http://210.210.155.35/session/a45c93be-048b-11e9-8761-b82a72d63267/uq2663/h/h07/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MY CINEMA
-http://210.210.155.35/session/8682945e-e57f-11e8-8e07-c81f66f89318/x6bnqe/s/s31/S4/mnf.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
@@ -52,9 +46,6 @@ http://210.210.155.35/uq2663/h/h142/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CINEMA WORD
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WOWOW MOVIES
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX MOVIES
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
