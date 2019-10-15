@@ -6,12 +6,14 @@ http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(03)/index.m3
 http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 #EXTINF:-1,TVRI Sport
 http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1,RCTI
-http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,RCTI HD
-https://edge.okezone.com/live/rctioke.m3u8
-#EXTINF:-1,MNC
-http://202.80.222.171:80/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="695d41771da88a97a0f3c10b3601901e",GTV
+http://23.95.35.148:9981/stream/channelid/2000772457?ticket=8A6647DD04E8B7DD57A164DB0FC781A20EA75BDC&profile=pass
+#EXTINF:-1 tvg-id="e72b8a0d450b7e88f59b4cc4adc8986a",INEWS
+http://23.95.35.148:9981/stream/channelid/227159015?ticket=9B7B9BC2F3F98E1DB8AABFABAB7F04ED260F4C24&profile=pass
+#EXTINF:-1 tvg-id="b0a94e7c05e1d469bd4932a5770baf51",MNC
+http://23.95.35.148:9981/stream/channelid/2085530032?ticket=8BE11DC84F259C0241FBA44319949F8102FF23F9&profile=pass
+#EXTINF:-1 tvg-id="15082c4aa7ed2475ec17c3d06a567e5a",RCTI
+http://23.95.35.148:9981/stream/channelid/1244399637?ticket=03865EC8DD64DD61AFFC0CA6C0E02F2F3C558DAB&profile=pass
 #EXTINF:-1,ANTV
 http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1,SCTV
