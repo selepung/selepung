@@ -19,7 +19,12 @@ http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
 https://194.204.46.137/live/eds/Nickelodeon/HLS_encr/Nickelodeon-audio_20003=96000-video=2200000.m3u8
 #EXTINF:-1 tvg-id="Space Toon Arabic ARB" tvg-name="Space Toon Arabic ARB" tvg-logo="https://i.imgur.com/L42Ouau.png" group-title="Kids",Spacetoon
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="natgeo",Nat Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="natgeo",Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="natgeo",National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:0 tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/transformasi-logo-tvri-_190405212444-949.jpg" group-title="INDONESIA",TVRI
 https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream03/streamPlaylist.m3u8
 
