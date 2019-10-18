@@ -70,41 +70,11 @@ http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", CINEMA WORD
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", FOX MOVIES
-http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", FOX MOVIES PREMIUM
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", FOX MOVIES COMEDY
-http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", Fox Premium Movies
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Kids", Anime CN
-http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Kids", Gospel Cartoon
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", RAI MOVIE
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SHOWTIME HD
-http://80.80.160.168/live/7/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony One HD
-http://210.210.155.35/uq2663/h/h13/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SBS IN
-http://210.210.155.35/uq2663/h/h28/index2.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SBS IN
-http://210.210.155.35/uq2663/h/h28/index1.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", K-Drama
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
