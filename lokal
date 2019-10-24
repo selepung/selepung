@@ -252,7 +252,40 @@ http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids",  DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-
+#EXTINF:-1 tvg-id="-" tvg-name="ANTV" tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="1. LOKAL ID",ANTV
+http://bit.ly/iReg-ANTV
+#EXTINF:-1 tvg-id="-" tvg-name="BERITA SATU" tvg-logo="http://images.useetv.com/logo_beritasatu_big1.png" group-title="1. LOKAL ID",BERITA SATU
+http://bit.ly/2VHUdBN
+#EXTINF:-1 tvg-id="-" tvg-name="CNN INDONESIA" tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" group-title="1. LOKAL ID",CNN INDONESIA
+http://bit.ly/33zHgwC
+#EXTINF:-1 tvg-id="-" tvg-name="GLOBAL TV" tvg-logo="https://i.postimg.cc/MKv6905z/globalTV.jpg" group-title="1. LOKAL ID",GLOBAL TV
+http://bit.ly/iReg-GlobalTV
+#EXTINF:-1 tvg-id="-" tvg-name="INDOSIAR" tvg-logo="https://i.postimg.cc/Bn7p0L5c/INDOSIAR.png" group-title="1. LOKAL ID",INDOSIAR
+http://bit.ly/iReg-IndoSiar
+#EXTINF:-1 tvg-id="-" tvg-name="KOMPAS TV" tvg-logo="http://images.useetv.com/logo_kompastv_big1.png" group-title="1. LOKAL ID",KOMPAS TV
+http://bit.ly/iReg-KompasTV
+#EXTINF:-1 tvg-id="-" tvg-name="METRO TV" tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="1. LOKAL ID",METRO TV
+http://bit.ly/iReg-MetroTv
+#EXTINF:-1 tvg-id="-" tvg-name="MNC News" tvg-logo="https://i.postimg.cc/3Rb3CWPL/MNCnews.jpg" group-title="1. LOKAL ID",MNC News
+http://bit.ly/iReg-MNCnews
+#EXTINF:-1 tvg-id="-" tvg-name="MNC TV" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg" group-title="1. LOKAL ID",MNC TV
+http://bit.ly/iReg-MNCTV
+#EXTINF:-1 tvg-id="-" tvg-name="NET. TV" tvg-logo="https://i.postimg.cc/ZKyHPgGZ/NETtv.png" group-title="1. LOKAL ID",NET. TV
+http://bit.ly/iReg-NETtv
+#EXTINF:-1 tvg-id="-" tvg-name="RAJAWALI TV" tvg-logo="http://images.useetv.com/logo_rtv_big1.png" group-title="1. LOKAL ID",RAJAWALI TV
+http://bit.ly/iReg-RajawaliTV
+#EXTINF:-1 tvg-id="-" tvg-name="RCTI" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg" group-title="1. LOKAL ID",RCTI
+http://bit.ly/iReg-RCTI
+#EXTINF:-1 tvg-id="-" tvg-name="SCTV" tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="1. LOKAL ID",SCTV
+http://bit.ly/iReg-SCTV
+#EXTINF:-1 tvg-id="-" tvg-name="TRANS 7" tvg-logo="http://images.useetv.com/logo_trans7_big1.png" group-title="1. LOKAL ID",TRANS 7
+http://bit.ly/iReg-TRANS7
+#EXTINF:-1 tvg-id="-" tvg-name="TRANS TV" tvg-logo="http://images.useetv.com/logo_transtv_big1.png" group-title="1. LOKAL ID",TRANS TV
+http://bit.ly/iReg-TRANSTV
+#EXTINF:-1 tvg-id="-" tvg-name="TV ONE" tvg-logo="http://images.useetv.com/logo_tvone_big1.png" group-title="1. LOKAL ID",TV ONE
+http://bit.ly/iReg-TVOne
+#EXTINF:-1 tvg-id="-" tvg-name="TVRI" tvg-logo="http://images.useetv.com/logo_tvri_big1.png" group-title="1. LOKAL ID",TVRI
+http://bit.ly/iReg-TVRi
 #EXTINF:-1 tvg-logo="http://miaomi-TV.com/Public/images/miao-mi-logo-color.png" group-title="Kids",  MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
@@ -264,6 +297,7 @@ http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomai
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/inilahonline.com/wp-content/uploads/2018/03/KOMPASTV.png?w=655&amp;ssl=1" group-title="INDONESIA",  KOMPAS TV
 http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnWNMD0d_tDrtp6dO2JMb0oKl0aq1_sR6e3503MIIZwtgccXI7" group-title="INDONESIA",  METRO TV
 http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?_res_tag_=video&amp;virtualDomain=000001.live_hls.zte.com
@@ -279,6 +313,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/mobile/images/logo__cnn.png?v=8.5.4" group-title="INDONESIA",  CNN INDONESIA HD
 https://live.cnnindonesia.com/livecnn/smil:cnnTV.smil/chunklist_w1705215623_b384000_sleng.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_103.jpg" group-title="INDONESIA",  BERITA SATU HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
