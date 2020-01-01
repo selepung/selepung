@@ -323,3 +323,334 @@ http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/33254
 http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/33255
 #EXTINF:-1,VIP MLZ: WWE NETWORK HD
 http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28635
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="UseeTV", beIN Sport 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/bein_sport_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="UseeTV", beIN Sport 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/bein_sport_2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UseeSports" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="UseeTV", UseeSports
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/useesports/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UseeSports2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="UseeTV", UseeSports2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/useesports2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Champion TV 1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="UseeTV", Champion TV 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/champion_tv_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Champion TV 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="UseeTV", Champion TV 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/champion_tv_2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="UseeTV", Fox Sport 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/fox_sport_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="UseeTV", Fox Sport 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/fox_sport_2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 3" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="UseeTV", Fox Sport 3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/fox_sport_3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="UseeTV", Nat Geo
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/nat_geo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="UseeTV", Nat Geo Wild
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/nat_geo_wild/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="UseeTV", Discovery Channel
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/discovery_channel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="UseeTV", NBA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/nba/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ruang Trampil" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="UseeTV", Ruang Trampil
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/ruang_trampil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Usee Photo" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="UseeTV", Usee Photo
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/usee_photo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UseePrime" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?v=2.0.0.13" group-title="UseeTV", UseePrime
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/useeprime/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Idku" tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png?v=2.0.0.14" group-title="UseeTV", Idku
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/idku/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png?v=2.0.0.13" group-title="UseeTV", ANTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/antv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="UseeTV", Indosiar
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/indosiar/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JITV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jitv_small.png?v=2.0.0.13" group-title="UseeTV", JITV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/jitv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="UseeTV", Kompas TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/kompas_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="UseeTV", Metro TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/metro_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Net." tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="UseeTV", Net.
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/net./playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="UseeTV", Rajawali TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/rajawali_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RRI NET" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13" group-title="UseeTV", RRI NET
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/rri_net/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="UseeTV", SCTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/sctv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trans7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="UseeTV", Trans7
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/trans7/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TransTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="UseeTV", TransTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/transtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV One" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png?v=2.0.0.13" group-title="UseeTV", TV One
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/tv_one/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antara" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antara_small1.png?v=2.0.0.13" group-title="UseeTV", Antara
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/antara/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://www.useetv.com/assets/images/channel/logo_idx_small.png" group-title="UseeTV", IDX
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/idx/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="UseeTV", Baby First
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/baby_first/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="UseeTV", Bali TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/bali_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Berita Satu" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="UseeTV", Berita Satu
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/berita_satu/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Citra Drama " tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.15" group-title="UseeTV", Citra Drama 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/citra_drama_/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Citra Entertainment" tvg-logo="https://www.useetv.com/assets/images/channel/logo_citraentertainment_small.png?v=2.0.0.15" group-title="UseeTV", Citra Entertainment
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/citra_entertainment/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?v=2.0.0.13" group-title="UseeTV", Duck TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/duck_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="UseeTV", Dunia Lain
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/dunia_lain/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title="UseeTV", France 24
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/france_24/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="UseeTV", Horee
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/horee/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="UseeTV", IMC
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/imc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JakTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?v=2.0.0.13" group-title="UseeTV", JakTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/jaktv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.13" group-title="UseeTV", JTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/jtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUI TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvmui_small.png?v=2.0.0.13" group-title="UseeTV", MUI TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/mui_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MyTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_small.png?v=2.0.0.13" group-title="UseeTV", MyTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/mytv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News Asia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title="UseeTV", News Asia
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/news_asia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T Music" tvg-logo="https://www.useetv.com/assets/images/channel/logo_allegro_small1.png?v=2.0.0.13" group-title="UseeTV", T Music
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/t_music/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_small.png" group-title="UseeTV", MTV Live
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/mtv_live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Edukasi" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?v=2.0.0.13" group-title="UseeTV", TV Edukasi
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/tv_edukasi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV9 NU" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png?v=2.0.0.13" group-title="UseeTV", TV9 NU
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/tv9_nu/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="UseeTV", TVRI
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/tvri/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UChannel" tvg-logo="https://www.useetv.com/assets/images/channel/logo_uchannel_small1.png?v=2.0.0.13" group-title="UseeTV", UChannel
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/uchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="UseeTV", Aljazeera
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/aljazeera/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AlQuran Kareem" tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png?v=2.0.0.13" group-title="UseeTV", AlQuran Kareem
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/alquran_kareem/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tawaf TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png" group-title="UseeTV", Tawaf TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/tawaf_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Khazanah" tvg-logo="https://www.useetv.com/assets/images/channel/logo_khazanah_small1.png?v=2.0.0.13" group-title="UseeTV", Khazanah
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/khazanah/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MQTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mqtv_small1.png?v=2.0.0.13" group-title="UseeTV", MQTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/mqtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTATV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_small1.png?v=2.0.0.13" group-title="UseeTV", MTATV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/mtatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title="UseeTV", Arirang
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/arirang/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muhammadiyah TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="UseeTV", Muhammadiyah TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/muhammadiyah_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rodja TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="UseeTV", Rodja TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/rodja_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="UseeTV", Animax
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/animax/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="UseeTV", AXN
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/axn/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="UseeTV", Boomerang
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/boomerang/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="UseeTV", TVN
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/tvn/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Movie" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="UseeTV", Celestial Movie
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/celestial_movie/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN Movies" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="UseeTV", TVN Movies
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/tvn_movies/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png" group-title="UseeTV", KBS World
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/kbs_world/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blue Ant" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="UseeTV", Blue Ant
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/blue_ant/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="UseeTV", Cinema World
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/cinema_world/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="UseeTV", Bioskop Indonesia
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/bioskop_indonesia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="UseeTV", Cartoon Network
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/cartoon_network/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chinese Drama" tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png?v=2.0.0.13" group-title="UseeTV", Chinese Drama
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/chinese_drama/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="UseeTV", CNN Indonesia
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/cnn_indonesia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Daai TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="UseeTV", Daai TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/daai_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dunia anak" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="UseeTV", Dunia anak
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/dunia_anak/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MNC Shop" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mncshop_small.png" group-title="UseeTV", MNC Shop
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/mnc_shop/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eat & Go" tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?v=2.0.0.13" group-title="UseeTV", Eat & Go
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/eat_&_go/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Flik" tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="UseeTV", Flik
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/flik/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="UseeTV", Galaxy
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/galaxy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hi Indo" tvg-logo="https://www.useetv.com/assets/images/channel/logo_hiindo_small1.png?v=2.0.0.13" group-title="UseeTV", Hi Indo
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/hi_indo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="UseeTV", History
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/history/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="UseeTV", Lifetime
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/lifetime/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Insert" tvg-logo="https://www.useetv.com/assets/images/channel/logo_insert_small1.png?v=2.0.0.13" group-title="UseeTV", Insert
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/insert/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kix" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="UseeTV", Kix
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/kix/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="UseeTV", Nick Junior
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/nick_junior/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="UseeTV", Nickelodeon
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pelangi" tvg-logo="https://www.useetv.com/assets/images/channel/logo_pelangi_small1.png?v=2.0.0.13" group-title="UseeTV", Pelangi
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/pelangi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prambors" tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png?v=2.0.0.13" group-title="UseeTV", Prambors
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/prambors/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="UseeTV", Thrill
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/thrill/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Waku Waku Japan" tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title="UseeTV", Waku Waku Japan
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/waku_waku_japan/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title="UseeTV", Warner
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/warner/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIPlus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="UseeTV", ANIPlus
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/aniplus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title="UseeTV", Bloomberg
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/bloomberg/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?v=2.0.0.13" group-title="UseeTV", CCTV4
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/cctv4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Documentary" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13" group-title="UseeTV", CGTN Documentary
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/cgtn_documentary/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning" tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="UseeTV", Da Vinci Learning
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/da_vinci_learning/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="UseeTV", Dreamworks
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/dreamworks/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="egg network" tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="UseeTV", egg network
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/egg_network/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="UseeTV", Euronews
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/euronews/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fashion One" tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashionone_small1.png?v=2.0.0.13" group-title="UseeTV", Fashion One
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/fashion_one/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FashionTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png?v=2.0.0.13" group-title="UseeTV", FashionTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/fashiontv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="UseeTV", Kplus
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/kplus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="nhk world Japan" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?v=2.0.0.13" group-title="UseeTV", nhk world Japan
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/nhk_world_japan/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SGEM" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small1.png?v=2.0.0.13" group-title="UseeTV", SGEM
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/sgem/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONE" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png?v=2.0.0.13" group-title="UseeTV", SONE
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/sone/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spacetoon Plus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_small1.png?v=2.0.0.13" group-title="UseeTV", Spacetoon Plus
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/spacetoon_plus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV5Monde" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png?v=2.0.0.13" group-title="UseeTV", TV5Monde
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/tv5monde/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZBioskop" tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="UseeTV", ZBioskop
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/zbioskop/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asian Food Network" tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title="UseeTV", Asian Food Network
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://s1.ratiptv.online/play/ratiptvfreetahunbaru/ratiptvtahunbaru2020/DHoolxVo/useetv/asian_food_network/playlist.m3u8
