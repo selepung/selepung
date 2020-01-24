@@ -149,7 +149,7 @@ http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=0
 http://bit.ly/iReg-ANTV
 #EXTINF:-1 tvg-id="-" tvg-name="BERITA SATU" tvg-logo="http://images.useetv.com/logo_beritasatu_big1.png" group-title="1. LOKAL ID",BERITA SATU
 http://bit.ly/2VHUdBN
-#EXTINF:-1 tvg-id="-" tvg-name="CNN 1. LOKAL ID" tvg-logo="http://images.useetv.com/logo_cnn1. LOKAL ID_big1.png" group-title="1. LOKAL ID",CNN 1. LOKAL ID
+#EXTINF:-1 tvg-id="-" tvg-name="CNN Indonesia" tvg-logo="http://images.useetv.com/logo_cnn1. LOKAL ID_big1.png" group-title="1. LOKAL ID",CNN 1. LOKAL ID
 http://bit.ly/33zHgwC
 #EXTINF:-1 tvg-id="-" tvg-name="GLOBAL TV" tvg-logo="https://i.postimg.cc/MKv6905z/globalTV.jpg" group-title="1. LOKAL ID",GLOBAL TV
 http://bit.ly/iReg-GlobalTV
