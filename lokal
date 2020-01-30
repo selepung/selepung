@@ -155,7 +155,7 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1585454474_b2800
 #EXTINF:-1 tvg-id="-" tvg-name="GLOBAL TV" tvg-logo="https://i.postimg.cc/MKv6905z/globalTV.jpg" group-title="1. LOKAL ID",GLOBAL TV
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 #EXTINF:-1 tvg-id="-" tvg-name="INDOSIAR" tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="1. LOKAL ID",INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1579937455~acl=/hls-p/ingest_205_*/*~hmac=99972c69f70131246b3fd8ee171dfdcbe2446f941e7411247b7221c68bc73709/hls-p/ingest_205_720p/index.m3u8
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8
 #EXTINF:-1 tvg-id="-" tvg-name="KOMPAS TV" tvg-logo="http://images.useetv.com/logo_kompastv_big1.png" group-title="1. LOKAL ID",KOMPAS TV
 https://etslive-2-vidio-com.akamaized.net/exp=1579937246~acl=/hls-p/ingest_874_*/*~hmac=b845a052774f943a456796ac8028b959d6e8fd4cde5cf7d896d21297996640e9/hls-p/ingest_874_720p/index.m3u8
 #EXTINF:-1 tvg-id="-" tvg-name="METRO TV" tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="1. LOKAL ID",METRO TV
