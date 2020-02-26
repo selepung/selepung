@@ -18,6 +18,9 @@ http://id2.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1,SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
+#EXTINF:-1 tvg-id="-" tvg-name="INDOSIAR" tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="Indonesia",INDOSIAR
+https://anevia115.mncnow.id/live/eds/Indosiar/sa_hls/Indosiar.m3u8
+
 #EXTINF:-1,GTV
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 
