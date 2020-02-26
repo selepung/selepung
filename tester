@@ -1,99 +1,99 @@
 #EXTM3U
 
-#EXTINF:-1,group-title="Indonesia",RCTI
+#EXTINF:-1 group-title="Indonesia",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
-#EXTINF:-1,group-title="Indonesia",RCTI 2
+#EXTINF:-1 group-title="Indonesia",RCTI 2
 https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
 
-#EXTINF:-1,group-title="Indonesia",MNC
+#EXTINF:-1 group-title="Indonesia",MNC
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 
-#EXTINF:-1,group-title="Indonesia",MNC TV 2
+#EXTINF:-1 group-title="Indonesia",MNC TV 2
 https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
 
-#EXTINF:-1,group-title="Indonesia",ANTV
+#EXTINF:-1 group-title="Indonesia",ANTV
 http://id2.indostreamingtv.com/live/antv/index.m3u8
 
-#EXTINF:-1,group-title="Indonesia",SCTV
+#EXTINF:-1 group-title="Indonesia",SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
 #EXTINF:-1,group-title="Indonesia",INDOSIAR
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
-#EXTINF:-1,group-title="Indonesia",GTV
+#EXTINF:-1 group-title="Indonesia",GTV
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 
-#EXTINF:-1,GTV 2
+#EXTINF:-1 group-title="Indonesia",GTV 2
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
 
-#EXTINF:-1,group-title="Indonesia",TRANS 7
+#EXTINF:-1 group-title="Indonesia",TRANS 7
 http://id2.indostreamingtv.com/live/trans7/index.m3u8
 
 #EXTINF:-1,group-title="Indonesia",TRANS 7 2
 https://livetvhooq.akamaized.net:443/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597561~exp=9007200828338552~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_2/chunklist.m3u8*~hmac=36e36a66dc72a44d109f8e5036284cc3f32f77eee042f8475362acd67ff40834
 
-#EXTINF:-1,group-title="Indonesia",TV ONE
+#EXTINF:-1 group-title="Indonesia",TV ONE
 https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
 
-#EXTINF:-1,group-title="Indonesia",TV ONE 2
+#EXTINF:-1 group-title="Indonesia",TV ONE 2
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
-#EXTINF:-1,group-title="Indonesia",TRANS TV
+#EXTINF:-1 group-title="Indonesia",TRANS TV
 http://id2.indostreamingtv.com/live/tv33/index.m3u8
 
-#EXTINF:-1,group-title="Indonesia",TRANS TV 2
+#EXTINF:-1 group-title="Indonesia",TRANS TV 2
 https://livetvhooq.akamaized.net:443/d47264e2fe8f43848fb79b43915fb298/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597746~exp=9007200828338737~acl=/d47264e2fe8f43848fb79b43915fb298/*/profile_2/chunklist.m3u8*~hmac=f7affc9ab3c5d753e46be5cb9c59599ff9af1992dd034c161ae4831ee9f9bfa9
 
-#EXTINF:-1,group-title="Indonesia",INEWS
+#EXTINF:-1 group-title="Indonesia",INEWS
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 
-#EXTINF:-1,group-title="Indonesia",TVRI NASIONAL
+#EXTINF:-1 group-title="Indonesia",TVRI NASIONAL
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
-#EXTINF:-1,group-title="Indonesia",TVRI JAKARTA
+#EXTINF:-1 group-title="Indonesia",TVRI JAKARTA
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
 
-#EXTINF:-1,group-title="Indonesia",TVRI SPORT
+#EXTINF:-1 group-title="Indonesia",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1,group-title="Indonesia",RTV
+#EXTINF:-1 group-title="Indonesia",RTV
 http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
 
-#EXTINF:-1,group-title="Indonesia",RTV 2
+#EXTINF:-1 group-title="Indonesia",RTV 2
 https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
 
-#EXTINF:-1,group-title="Indonesia",METRO TV
+#EXTINF:-1 group-title="Indonesia",METRO TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
-#EXTINF:-1,group-title="Indonesia",JTV Surabaya
+#EXTINF:-1 group-title="Indonesia",JTV Surabaya
 https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578737355~exp=9007200833478346~acl=/ae74dfdacfc1474ebacda1990c3dc338/*/profile_0/chunklist.m3u8*~hmac=38fffe01dee4cdd681554c4a989a37ce79cb84f3d782a9ba5dd8997ddf403d67&hdnts=st=1578737356~exp=1578737476~acl=/*~id=69e868e0-65de-48a7-a997-65e76560ba94~data=36.75.70.213~hmac=8a97806bfb9c8ccb8bb2e6af1a63ffde0cedf4d14618ca0d3e7c8cd80fd10c6f
 
-#EXTINF:-1,group-title="Indonesia",JGO
+#EXTINF:-1 group-title="Indonesia",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:-1,group-title="Indonesia",KOMPAS TV
+#EXTINF:-1 group-title="Indonesia",KOMPAS TV
 https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
 
-#EXTINF:-1,group-title="Indonesia",CNN Indonesia HD
+#EXTINF:-1 group-title="Indonesia",CNN Indonesia HD
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 
-#EXTINF:-1,group-title="Indonesia",CNBC Indonesia HD
+#EXTINF:-1 group-title="Indonesia",CNBC Indonesia HD
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
-#EXTINF:-1,group-title="Indonesia",USEE PHOTO
+#EXTINF:-1 group-title="Indonesia",USEE PHOTO
 https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048772~exp=9007200826789763~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_1/chunklist.m3u8*~hmac=db830a2d176a5620aa93f8a722a43796aba20e38f757a257a6874826bc3f7308
 
-#EXTINF:-1,group-title="Indonesia",USEE PRIME
+#EXTINF:-1 group-title="Indonesia",USEE PRIME
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048811~exp=9007200826789802~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_1/chunklist.m3u8*~hmac=c7b056ffebcb94ad6c429bd0685d5d6fed40b7bad0dcfca6e48df944d45a43d4
 
 #EXTINF:-1,group-title="Indonesia",ID KU
 https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048854~exp=9007200826789845~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_1/chunklist.m3u8*~hmac=eb90616605948f62a0c512ed38cdd06b0f5cf7bce0fee578df3441455b550da6
 
-#EXTINF:-1,group-title="Indonesia",RUANG TERAMPIL
+#EXTINF:-1 group-title="Indonesia",RUANG TERAMPIL
 https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048870~exp=9007200826789861~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_1/chunklist.m3u8*~hmac=d953442254a991bd90234bddbdec85c2ebd07648d38983e23e541e31e7993cc9
 
-#EXTINF:-1,group-title="Indonesia",CLUBING TV
+#EXTINF:-1 group-title="Indonesia",CLUBING TV
 https://livetvhooq.akamaized.net:443/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597850~exp=9007200828338841~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_0/chunklist.m3u8*~hmac=3f8b35244cac9f49ce5491e590812bb8770317e3206bb1603f4a8aa41efe6ff2
 
 #EXTINF:-1,MY TV
