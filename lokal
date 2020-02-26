@@ -157,7 +157,7 @@ https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 #EXTINF:-1 tvg-id="-" tvg-name="INDOSIAR" tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="Indonesia",INDOSIAR
 https://anevia115.mncnow.id/live/eds/Indosiar/sa_hls/Indosiar.m3u8
 #EXTINF:-1 tvg-id="-" tvg-name="KOMPAS TV" tvg-logo="http://images.useetv.com/logo_kompastv_big1.png" group-title="Indonesia",KOMPAS TV
-https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
+https://anevia115.mncnow.id/live/eds/KompasTV/sa_hls/KompasTV.m3u8
 #EXTINF:-1 tvg-id="-" tvg-name="METRO TV" tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="Indonesia",METRO TV
 https://livetvhooq.akamaized.net/d7236670539144e0a5df0b8fa7a0c5c1/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1570264475~exp=9007200825005466~acl=/d7236670539144e0a5df0b8fa7a0c5c1/*/profile_0/chunklist.m3u8*~hmac=113d2c8fce5c53bb675720b941b70c7a1bee5a01529d4041868efa3372a0c045
 #EXTINF:-1 tvg-id="-" tvg-name="MNC iNews" tvg-logo="https://i.postimg.cc/3Rb3CWPL/MNCnews.jpg" group-title="Indonesia",MNC iNews
@@ -816,7 +816,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_imc_small.png" group-title="Indonesia",IMC
 https://dl.dropbox.com/s/fg1m1e3kfnbza58/IMC.m3u8?dl=1
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="Indonesia",Kompas TV
-https://anevia115.mncnow.id/live/eds/KompasTV/sa_hls/KompasTV.m3u8
+https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/RCTI.id.png" group-title="Indonesia",RCTI
 http://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/MNCTV.id.png" group-title="Indonesia",MNC
